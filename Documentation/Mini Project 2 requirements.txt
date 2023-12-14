@@ -1,0 +1,11 @@
+requirements
+routes to display People lists/About/Popular Lists pages.
+create pages for each route
+create MUI components for page layout like containers and titles
+MUI menu button to navigate between the pages
+a component to display and edit cards with MUI styling
+a context array to store cards
+a form component to add new cards to the array with MUI styling
+internal API arrays for the popular lists pages
+routing cards to change the page to the list thats clicked
+a back button to go back to the popular lists page
